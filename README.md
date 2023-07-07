@@ -8,7 +8,11 @@ Solution Overview
 The solution consists of a React web application that uses Material-UI for the UI components and styling. It fetches data from the API endpoint and renders it in a responsive layout. Each data item is displayed as a card with title, body, rating, duration, and author information. The user can click the like button to show appreciation for a note. Additionally, a Snackbar component is used to display a message when the like button is clicked.
 
 Technologies Used
-The project utilizes the following technologies and libraries:
+The project utilizes the following technologies and libra
+
+https://github.com/sudarshan-19/intership/assets/81958537/999cd5e0-da5e-44f9-8814-1ea5821d4144
+
+ries:
 
 React: JavaScript library for building user interfaces.
 Material-UI: React UI framework for designing attractive and responsive web applications.
