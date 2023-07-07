@@ -1,0 +1,30 @@
+# Dependency directories
+/node_modules
+
+# Build output
+/build
+/dist
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode
+.idea
+
+# Logs and debugging files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.swp
+*.swo
+*.swpx
+*.swx
+*.sublime-workspace
